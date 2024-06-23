@@ -44,7 +44,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCfp4SGnHMTpBscwDaE5npbLlPPB4NP4oc',
+    apiKey: '***********',
     appId: '1:991615773594:web:ecddc132b42b6d24a2a823',
     messagingSenderId: '991615773594',
     projectId: 'tabufutbol',
@@ -54,7 +54,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAcqEycL5XYM1RLx9fM4k7b5tfOMYA_0hA',
+    apiKey: '**********',
     appId: '1:991615773594:android:b729245d6f967640a2a823',
     messagingSenderId: '991615773594',
     projectId: 'tabufutbol',
@@ -62,7 +62,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyB9S0CdPNuBrdwI1E_1IeQmu9xXeMMaP_c',
+    apiKey: '************',
     appId: '1:991615773594:ios:47aa9e3f58ec486ba2a823',
     messagingSenderId: '991615773594',
     projectId: 'tabufutbol',
@@ -72,7 +72,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyB9S0CdPNuBrdwI1E_1IeQmu9xXeMMaP_c',
+    apiKey: '*******************',
     appId: '1:991615773594:ios:47aa9e3f58ec486ba2a823',
     messagingSenderId: '991615773594',
     projectId: 'tabufutbol',
