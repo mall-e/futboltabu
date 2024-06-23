@@ -43,41 +43,5 @@ class DefaultFirebaseOptions {
     }
   }
 
-  static const FirebaseOptions web = FirebaseOptions(
-    apiKey: '***********',
-    appId: '1:991615773594:web:ecddc132b42b6d24a2a823',
-    messagingSenderId: '991615773594',
-    projectId: 'tabufutbol',
-    authDomain: 'tabufutbol.firebaseapp.com',
-    storageBucket: 'tabufutbol.appspot.com',
-    measurementId: 'G-HEP6XPY2PM',
-  );
-
-  static const FirebaseOptions android = FirebaseOptions(
-    apiKey: '**********',
-    appId: '1:991615773594:android:b729245d6f967640a2a823',
-    messagingSenderId: '991615773594',
-    projectId: 'tabufutbol',
-    storageBucket: 'tabufutbol.appspot.com',
-  );
-
-  static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: '************',
-    appId: '1:991615773594:ios:47aa9e3f58ec486ba2a823',
-    messagingSenderId: '991615773594',
-    projectId: 'tabufutbol',
-    storageBucket: 'tabufutbol.appspot.com',
-    iosClientId: '991615773594-sq89sc6l6qm9949keka37oma17s9ijk3.apps.googleusercontent.com',
-    iosBundleId: 'com.example.futboltabu',
-  );
-
-  static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: '*******************',
-    appId: '1:991615773594:ios:47aa9e3f58ec486ba2a823',
-    messagingSenderId: '991615773594',
-    projectId: 'tabufutbol',
-    storageBucket: 'tabufutbol.appspot.com',
-    iosClientId: '991615773594-sq89sc6l6qm9949keka37oma17s9ijk3.apps.googleusercontent.com',
-    iosBundleId: 'com.example.futboltabu',
-  );
+  
 }
