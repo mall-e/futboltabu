@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "991615773594",
+    "project_id": "tabufutbol",
+    "storage_bucket": "tabufutbol.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991615773594:android:b729245d6f967640a2a823",
+        "android_client_info": {
+          "package_name": "com.example.futboltabu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991615773594-a9fgjs6pskj7hmps77b2nheptpqv3mmj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcqEycL5XYM1RLx9fM4k7b5tfOMYA_0hA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991615773594-a9fgjs6pskj7hmps77b2nheptpqv3mmj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "991615773594-bltqhucidujvh90cdiimk2k4thdilg60.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tabufutbol"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
